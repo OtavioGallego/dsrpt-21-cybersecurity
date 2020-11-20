@@ -36,7 +36,7 @@ A primeira delas é utilizando as flags *vendors* e *product*, conforme descrito
 go run main.go cve --vendor microsoft --product outlook
 ```
 
-A segunda forma é utilizando o ID da CVE, no formato **CVE-9999-9999**, conforme descrito abaixo:
+A segunda forma é utilizando o ID da CVE, no formato **CVE-9999-9999**, através do parâmetro *id* conforme descrito abaixo:
 ```bash
 go run main.go cve --id CVE-2010-3333
 ```
