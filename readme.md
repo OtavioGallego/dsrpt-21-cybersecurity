@@ -43,6 +43,14 @@ go run main.go cve --id CVE-2010-3333
 
 Por conter muitas informações, a CVE obtida é sempre salva em um arquivo chamado **cve.json**, na raiz do projeto, independente de qual das duas formas tenha sido utilizada para buscá-la.
 
+## Componentes do Grupo
+
+Gabriel Diamantino Batista - RM 79262
+Leonardo Ulisses Amorim Castanho - RM 79491
+Otávio Augusto Gallego - RM 77955
+Victor Wilson Costa Lamana - RM 77835
+Vinicius Rodrigues de Barros - RM 77936 
+
 
 ## Licença
 [MIT](https://choosealicense.com/licenses/mit/)
