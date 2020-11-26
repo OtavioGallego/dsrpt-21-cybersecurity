@@ -45,11 +45,11 @@ Por conter muitas informações, a CVE obtida é sempre salva em um arquivo cham
 
 ## Componentes do Grupo
 
-Gabriel Diamantino Batista - RM 79262
-Leonardo Ulisses Amorim Castanho - RM 79491
-Otávio Augusto Gallego - RM 77955
-Victor Wilson Costa Lamana - RM 77835
-Vinicius Rodrigues de Barros - RM 77936 
+Gabriel Diamantino Batista - RM 79262\
+Leonardo Ulisses Amorim Castanho - RM 79491\
+Otávio Augusto Gallego - RM 77955\
+Victor Wilson Costa Lamana - RM 77835\
+Vinicius Rodrigues de Barros - RM 77936\
 
 
 ## Licença
